@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702537514511",
+    "project_id": "ticketapp-705b4",
+    "storage_bucket": "ticketapp-705b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702537514511:android:0555bf7d09c485587c2d7a",
+        "android_client_info": {
+          "package_name": "com.example.agniwarshatcketcheckingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrFMUsQRBb8cTmR55C9M0t8SmwDk_1FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702537514511:android:630ec497873ad4567c2d7a",
+        "android_client_info": {
+          "package_name": "com.example.ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbrFMUsQRBb8cTmR55C9M0t8SmwDk_1FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
