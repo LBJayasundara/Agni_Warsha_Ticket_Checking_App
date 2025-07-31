@@ -1,4 +1,4 @@
-# agniwarshatcketcheckingapp
+# Agni Warsha Ticket Checking App
 
 A new Flutter project.
 
