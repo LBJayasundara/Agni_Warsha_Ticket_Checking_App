@@ -89,18 +89,7 @@ Usage
 
         Monitor event attendance
 
-File Structure
-text
 
-lib/
-├── admin_dashboard_screen.dart   # Admin management interface
-├── barcode_scanner_screen.dart   # Ticket scanning screen
-├── check_in_out.dart             # Check-in/out functionality
-├── custom_button.dart            # Reusable button component
-├── firebase_service.dart         # Firebase operations
-├── generate_csv.dart             # CSV generator for bulk upload
-├── main.dart                     # Main application entry
-bulk.dart                         # Bulk ticket upload utility
 
 License
 
